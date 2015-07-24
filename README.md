@@ -1,0 +1,2 @@
+# bin
+Binarys / Executables only
